@@ -26,7 +26,6 @@ To work on something, whether a new feature or a bugfix:
   ```
   Where ```<username>``` is your GerritHub username.
   And, you should add the public key of your workstation into your GerritHub SSH public keys.
- ## 3. Create a branch
   Create a descriptively-named branch off of your cloned repository
   ```
   cd python-zvm-sdk
